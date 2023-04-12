@@ -1,13 +1,15 @@
-import HomeScreen from '@screens/home';
+import React from 'react';
+import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function App() {
+const LoginScreen = () => {
     return (
-        <View>
-            <HomeScreen />
+        <View style={styles.container}>
+            <Text>Hello home!</Text>
+            <StatusBar style="auto" />
         </View>
     );
-}
+};
 
 const styles = StyleSheet.create({
     container: {
@@ -17,3 +19,5 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
     },
 });
+
+export default LoginScreen;
