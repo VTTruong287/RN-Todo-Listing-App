@@ -1,6 +1,6 @@
-import React, { ReactElement } from 'react';
+import React from 'react';
 import { View, Pressable, Text, ViewStyle, StyleProp, TextStyle } from 'react-native';
-import { Dimensions } from '@modules/commons/contants';
+import { Dimensions } from '../../contants';
 
 export type onPressedCallback = () => void;
 
@@ -13,7 +13,7 @@ export type StateStyle = {
 };
 
 export type Icon = {
-    render: (state: ButtonState, stateColor?: string) => ReactElement;
+    render: (state: ButtonState, stateColor?: string) => React.ReactNode;
 };
 
 export type ButtonProps = {

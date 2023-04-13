@@ -8,12 +8,10 @@
         "lib": ["es2017"],
         "strict": true,
         "allowJs": true,
-        "baseUrl": "./src",
-        "paths": {
-            "@libs/*": ["libs/*"],
-            "@modules/*": ["modules/*"],
-            "@screens/*": ["screens/*"]
-        }
+        "baseUrl": "./"
+        // "paths": {
+        //     "@src/*": ["src/*"]
+        // }
     },
     "exclude": ["node_modules", "babel.config.js", "metro.config.js", "jest.config.js"]
 }

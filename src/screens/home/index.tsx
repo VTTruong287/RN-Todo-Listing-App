@@ -1,11 +1,12 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
+import TodoList from '../../modules/app/components/todo-list';
+import AddTodoForm from '../../modules/app/components/add-todo-form';
 
 const HomeScreen = () => {
     return (
         <View style={styles.container}>
-            <Text>Hello home!</Text>
-            <StatusBar style="auto" />
+            <AddTodoForm />
+            <TodoList />
         </View>
     );
 };

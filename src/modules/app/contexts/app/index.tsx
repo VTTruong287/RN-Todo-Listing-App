@@ -1,5 +1,5 @@
-import React, { ReactChild } from 'react';
-import { View } from 'react-native/types';
+import { StatusBar } from 'expo-status-bar';
+import React from 'react';
 
 export enum AppStateEnum {
     UNKNOWN,
@@ -18,11 +18,16 @@ const AppContext = React.createContext<AppContextProps>({
 const useAppContext = () => React.useContext(AppContext);
 
 type AppProviderProps = {
-    children: ReactChild | ReactChild[];
+    children: React.ReactNode;
 };
 const AppProvider = (props: AppProviderProps) => {
     const [appState, setAppState] = React.useState(AppStateEnum.UNKNOWN);
-    return <AppContext.Provider value={{ status: appState }}>{props.children}</AppContext.Provider>;
+    return (
+        <AppContext.Provider value={{ status: appState }}>
+            {props.children}
+            <StatusBar style="auto" />
+        </AppContext.Provider>
+    );
 };
 
 export { AppProvider, useAppContext };

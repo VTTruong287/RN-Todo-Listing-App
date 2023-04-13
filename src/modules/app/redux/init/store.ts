@@ -1,12 +1,13 @@
 import { configureStore } from '@reduxjs/toolkit';
 import createSagaMiddleware from 'redux-saga';
 import { appSaga } from './saga';
+import { todoReducers } from '../todo/slice';
 
 const sagaMiddleware = createSagaMiddleware();
 
 export const store = configureStore({
     reducer: {
-        // login: loginReducers,
+        todo: todoReducers,
     },
     middleware: (getDefaultMiddleware) =>
         getDefaultMiddleware({

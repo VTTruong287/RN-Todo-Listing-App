@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 const LoginScreen = () => {
     return (
         <View style={styles.container}>
-            <Text>Hello home!</Text>
+            <Text>Hello login!</Text>
             <StatusBar style="auto" />
         </View>
     );

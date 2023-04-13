@@ -1,27 +1,38 @@
-import { ScrollView, Text } from 'react-native/types';
+import { ScrollView, StyleSheet, Text, View } from 'react-native';
+import { dp } from '../../../commons/contants/dimensions';
+import { useTodo } from '../../redux/todo/hook';
 
 const TodoList = () => {
-    const items = [
-        {
-            id: 1,
-            value: 'xxx',
-        },
-        {
-            id: 2,
-            value: 'yyy',
-        },
-        {
-            id: 3,
-            value: 'zzz',
-        },
-    ];
+    const { selectedTodoList = [] } = useTodo();
+
     return (
-        <ScrollView showsVerticalScrollIndicator={false} horizontal={true}>
-            {items.map((item: any, idx: number) => {
-                return <Text>item.value</Text>;
+        <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
+            {selectedTodoList.map((item: any, idx: number) => {
+                return (
+                    <View style={styles.itemWrapper}>
+                        <Text>Title: {item.title}</Text>
+                        <Text>Content: {item.content}</Text>
+                    </View>
+                );
             })}
         </ScrollView>
     );
 };
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        backgroundColor: '#eee',
+        width: '100%',
+    },
+    itemWrapper: {
+        flex: 1,
+        flexGrow: 1,
+        width: '100%',
+        backgroundColor: '#fff',
+        marginVertical: dp(5),
+        padding: dp(5),
+    },
+});
 
 export default TodoList;

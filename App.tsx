@@ -1,19 +1,14 @@
-import HomeScreen from '@screens/home';
-import { StyleSheet, Text, View } from 'react-native';
+import { AppProvider } from './src/modules/app/contexts/app';
+import AppNavigation from './src/modules/app/navigations';
+import { store } from './src/modules/app/redux/init/store';
+import { Provider as ReduxProvider } from 'react-redux';
 
 export default function App() {
     return (
-        <View>
-            <HomeScreen />
-        </View>
+        <ReduxProvider store={store}>
+            <AppProvider>
+                <AppNavigation />
+            </AppProvider>
+        </ReduxProvider>
     );
 }
-
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        backgroundColor: '#fff',
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
-});
