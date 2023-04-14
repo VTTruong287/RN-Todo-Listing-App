@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.truong.vt287.todolistingdapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
