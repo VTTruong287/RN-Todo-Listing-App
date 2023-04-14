@@ -1,13 +1,13 @@
 import React from 'react';
 import { View, Pressable, Text, ViewStyle, StyleProp, TextStyle } from 'react-native';
-import { Dimensions } from '../../contants';
+import { Dimensions } from '../../constants';
 
 export type onPressedCallback = () => void;
 
 export type StateStyle = {
     backgroundColor?: string;
     borderColor?: string;
-    textColor?: string;
+    color?: string;
     fontSize?: number;
     lineHeight?: number;
 };
@@ -86,10 +86,10 @@ export default function Button(props: ButtonProps) {
                 {props.leftIcon?.render(
                     buttonState,
                     buttonState == ButtonState.PRESSED
-                        ? props.pressedStyle?.textColor
+                        ? props.pressedStyle?.color
                         : buttonState == ButtonState.DISABLED
-                        ? props.disabledStyle?.textColor
-                        : props.defaultStyle?.textColor,
+                        ? props.disabledStyle?.color
+                        : props.defaultStyle?.color,
                 )}
 
                 <Text
@@ -98,10 +98,10 @@ export default function Button(props: ButtonProps) {
                         paddingHorizontal: Dimensions.padding,
                         color:
                             buttonState == ButtonState.DISABLED
-                                ? props.disabledStyle?.textColor
+                                ? props.disabledStyle?.color
                                 : buttonState == ButtonState.PRESSED
-                                ? props.pressedStyle?.textColor
-                                : props.defaultStyle?.textColor,
+                                ? props.pressedStyle?.color
+                                : props.defaultStyle?.color,
 
                         fontSize:
                             buttonState == ButtonState.DISABLED
@@ -117,10 +117,10 @@ export default function Button(props: ButtonProps) {
                 {props.rightIcon?.render(
                     buttonState,
                     buttonState == ButtonState.PRESSED
-                        ? props.pressedStyle?.textColor
+                        ? props.pressedStyle?.color
                         : buttonState == ButtonState.DISABLED
-                        ? props.disabledStyle?.textColor
-                        : props.defaultStyle?.textColor,
+                        ? props.disabledStyle?.color
+                        : props.defaultStyle?.color,
                 )}
             </Pressable>
         </View>

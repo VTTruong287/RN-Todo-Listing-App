@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, TextInput, TextInputProps, View, ViewStyle } from 'react-native';
-import { Colors, Dimensions } from '../../contants';
+import { Colors, Dimensions } from '../../constants';
 
 export type TextBoxProps = TextInputProps & {
     state?: TextBoxState;

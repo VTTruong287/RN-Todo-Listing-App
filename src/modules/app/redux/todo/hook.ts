@@ -1,5 +1,5 @@
 import { useAppDispatch, useAppSelector } from '../init/hooks';
-import { selectTodoList, todoActions } from './slice';
+import { TodoType, selectTodoList, todoActions } from './slice';
 
 const useTodo = () => {
     const dispatch = useAppDispatch();
@@ -9,10 +9,14 @@ const useTodo = () => {
     const dispatchFetchTodoRequested = () => {
         dispatch(todoActions.fetchTodoRequested());
     };
+    const dispatchAddTodoRequested = (payload: TodoType) => {
+        dispatch(todoActions.addTodoRequested(payload));
+    };
 
     return {
         selectedTodoList,
         dispatchFetchTodoRequested,
+        dispatchAddTodoRequested,
     };
 };
 
