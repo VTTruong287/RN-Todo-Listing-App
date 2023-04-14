@@ -3,7 +3,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { HomeScreen, LoginScreen } from '../../../screens/index';
 import React from 'react';
 import { useAppContext } from '../contexts/app';
-import { ScreenName } from '../../commons/contants';
+import { ScreenName } from '../../commons/constants';
 import { useTodo } from '../redux/todo/hook';
 
 const Stack = createNativeStackNavigator();
@@ -19,12 +19,12 @@ const AppNavigation = () => {
     return (
         <NavigationContainer>
             <Stack.Navigator
-                initialRouteName={ScreenName.HomeScreen}
+                initialRouteName={ScreenName.LoginScreen}
                 screenOptions={{
                     headerShown: true,
                 }}
             >
-                <Stack.Screen name={ScreenName.LoginScreen} component={LoginScreen} />
+                <Stack.Screen name={ScreenName.LoginScreen} component={LoginScreen} options={{ headerShown: false }} />
                 <Stack.Screen name={ScreenName.HomeScreen} component={HomeScreen} />
             </Stack.Navigator>
         </NavigationContainer>

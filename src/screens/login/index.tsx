@@ -1,12 +1,11 @@
 import React from 'react';
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
+import ConnectWalletButton from '../../modules/app/components/connect-wallet-button';
 
 const LoginScreen = () => {
     return (
         <View style={styles.container}>
-            <Text>Hello login!</Text>
-            <StatusBar style="auto" />
+            <ConnectWalletButton />
         </View>
     );
 };
@@ -15,8 +14,6 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#fff',
-        alignItems: 'center',
-        justifyContent: 'center',
     },
 });
 
