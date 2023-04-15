@@ -1,16 +1,14 @@
+// prettier-ignore
 {
-    "extends": "expo/tsconfig.base",
-    "compilerOptions": {
-        "allowSyntheticDefaultImports": true,
-        "target": "ES2022",
-        "module": "ES2022",
-        "moduleResolution": "node",
-        "jsx": "react-native",
-        "strict": true,
-        "allowJs": true,
-        "baseUrl": "./"
-        // "paths": {
-        //     "@src/*": ["src/*"]
-        // }
-    }
+  "extends": "@tsconfig/react-native/tsconfig.json",     /* Recommended React Native TSConfig base */
+  "compilerOptions": {
+    "target": "ES2022",
+    "jsx": "react",
+    "module": "ES2022", 
+    "moduleResolution": "node",
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+    /* Completeness */
+    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+  }
 }

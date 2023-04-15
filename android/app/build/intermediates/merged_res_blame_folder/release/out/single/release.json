@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_close.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_close.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_close.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_close.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_qr.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_qr.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_qr.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_qr.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_chevron.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_chevron.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_copy.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_copy.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_closewhite.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_closewhite.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_viewall.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_viewall.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_copy.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_copy.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_qr.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_qr.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_background.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_background.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_wcisotype.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_wcisotype.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_wcisotype.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_wcisotype.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_closewhite.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_closewhite.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_background.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_background.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_wclogo.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_wclogo.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_chevron.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_chevron.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_wclogo.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_wclogo.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_wclogo.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_wclogo.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_wcisotype.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_wcisotype.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_close.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_close.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xhdpi_src_assets_copy.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xhdpi/src_assets_copy.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_chevron.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_chevron.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-main-23:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-mdpi_src_assets_background.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-mdpi/src_assets_background.png"
+    },
+    {
+        "merged": "com.walletconnect.web3modal.rnsample.app-merged_res-22:/drawable-xxhdpi_src_assets_closewhite.png.flat",
+        "source": "com.walletconnect.web3modal.rnsample.app-react-17:/drawable-xxhdpi/src_assets_closewhite.png"
+    }
+]

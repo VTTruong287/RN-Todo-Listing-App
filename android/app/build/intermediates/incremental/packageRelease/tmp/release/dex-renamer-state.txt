@@ -1,0 +1,4 @@
+#Fri Apr 14 22:47:27 ICT 2023
+base.0=/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
