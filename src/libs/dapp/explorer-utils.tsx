@@ -90,28 +90,33 @@ const setInstalledFlag = async (wallets: WalletInfo[]): Promise<WalletInfo[]> =>
 };
 
 export const fetchAllWallets = () => {
-    return fetch(`https://explorer-api.walletconnect.com/v3/wallets?projectId=${ENV_PROJECT_ID}&sdks=sign_v2`)
-        .then((res) => res.json())
-        .then(
-            (wallet) => {
-                const result: WalletInfo[] = Object.keys(wallet?.listings).map((key) => wallet?.listings[key]);
-                return result;
-            },
-            () => {
-                Alert.alert('Error', 'Error fetching all wallets');
-            },
-        )
-        .then(async (wallets: WalletInfo[] | void) => {
-            if (wallets) {
-                return (await setInstalledFlag(wallets)).sort((a, b) => {
-                    if (a.isInstalled && !b.isInstalled) {
-                        return -1;
-                    } else if (!a.isInstalled && b.isInstalled) {
-                        return 1;
-                    } else {
-                        return 0;
-                    }
-                });
-            }
-        });
+    return (
+        fetch(`https://explorer-api.walletconnect.com/v3/wallets?projectId=${ENV_PROJECT_ID}&sdks=sign_v2`)
+            // return fetch(
+            //     `https://explorer-api.walletconnect.com/v3/wallets?projectId=aff802f1f2a8a51c29d051b2e72ff32a&sdks=sign_v2`,
+            // )
+            .then((res) => res.json())
+            .then(
+                (wallet) => {
+                    const result: WalletInfo[] = Object.keys(wallet?.listings).map((key) => wallet?.listings[key]);
+                    return result;
+                },
+                () => {
+                    Alert.alert('Error', 'Error fetching all wallets');
+                },
+            )
+            .then(async (wallets: WalletInfo[] | void) => {
+                if (wallets) {
+                    return (await setInstalledFlag(wallets)).sort((a, b) => {
+                        if (a.isInstalled && !b.isInstalled) {
+                            return -1;
+                        } else if (!a.isInstalled && b.isInstalled) {
+                            return 1;
+                        } else {
+                            return 0;
+                        }
+                    });
+                }
+            })
+    );
 };

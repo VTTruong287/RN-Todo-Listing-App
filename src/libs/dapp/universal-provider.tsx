@@ -1,7 +1,8 @@
 import '@walletconnect/react-native-compat';
 import UniversalProvider from '@walletconnect/universal-provider';
 
-// import { ENV_PROJECT_ID, ENV_RELAY_URL } from '@env';
+// @ts-expect-error - `@env` is a virtualised module via Babel config.
+import { ENV_PROJECT_ID, ENV_RELAY_URL } from '@env';
 import { SessionTypes } from '@walletconnect/types';
 import { ethers } from 'ethers';
 import { Alert } from 'react-native';
@@ -17,8 +18,8 @@ export async function createUniversalProvider() {
     try {
         universalProvider = await UniversalProvider.init({
             logger: 'info',
-            relayUrl: 'wss://relay.walletconnect.com', //ENV_RELAY_URL,
-            projectId: 'aff802f1f2a8a51c29d051b2e72ff32a', // ENV_PROJECT_ID,
+            relayUrl: ENV_RELAY_URL, //'wss://relay.walletconnect.com'
+            projectId: ENV_PROJECT_ID, //aff802f1f2a8a51c29d051b2e72ff32a
             metadata: {
                 name: 'React Native V2 dApp',
                 description: 'RN dApp by WalletConnect',
@@ -41,6 +42,7 @@ export async function createUniversalProviderSession(callbacks?: {
     onFailure?: (error: any) => void;
 }) {
     try {
+        console.log('=== HERE 1');
         universalProviderSession = await universalProvider.connect({
             namespaces: {
                 eip155: {
@@ -57,9 +59,13 @@ export async function createUniversalProviderSession(callbacks?: {
                 },
             },
         });
+        console.log('=== HERE 2');
+
         web3Provider = new ethers.providers.Web3Provider(universalProvider);
         callbacks?.onSuccess?.();
     } catch (error) {
+        console.log('=== HERE 3 - ERROR: ', error);
+
         callbacks?.onFailure?.(error);
     }
 }

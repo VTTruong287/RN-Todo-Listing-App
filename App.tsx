@@ -1,3 +1,7 @@
+import 'react-native-get-random-values';
+import '@ethersproject/shims';
+import '@walletconnect/react-native-compat';
+
 import { AppProvider } from './src/modules/app/contexts/app';
 import AppNavigation from './src/modules/app/navigations';
 import { store } from './src/modules/app/redux/init/store';

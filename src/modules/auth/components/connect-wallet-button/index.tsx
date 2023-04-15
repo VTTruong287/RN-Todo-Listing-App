@@ -1,6 +1,3 @@
-import 'react-native-get-random-values';
-import '@ethersproject/shims';
-
 import React, { useState, useCallback, useEffect } from 'react';
 import {
     ActivityIndicator,
@@ -13,8 +10,7 @@ import {
     View,
 } from 'react-native';
 
-import '@walletconnect/react-native-compat';
-import useInitialization from './useInitialization';
+import useInitialization from '../../hooks/useInitialization';
 import {
     universalProviderSession,
     universalProvider,
@@ -22,8 +18,8 @@ import {
     clearSession,
     createUniversalProviderSession,
 } from '../../../../libs/dapp/universal-provider';
-// import ExplorerModal from '../components/ExplorerModal';
-import { DarkTheme, LightTheme } from '../../../../libs/dapp/constants/colors';
+import ExplorerModal from '../explorer-modal';
+import { DarkTheme, LightTheme } from '../../../commons/constants/colors';
 
 function App(): JSX.Element {
     const isDarkMode = useColorScheme() === 'dark';
@@ -59,7 +55,7 @@ function App(): JSX.Element {
     const onSessionError = useCallback(async () => {
         setModalVisible(false);
         // TODO: Improve this, check why is alerting a lot, and check MaxListeners warning
-        // Alert.alert('Error', 'Error creating session');
+        Alert.alert('Error', 'Error creating session');
     }, []);
 
     const onSessionDelete = useCallback(
@@ -150,11 +146,7 @@ function App(): JSX.Element {
                         )}
                     </TouchableOpacity>
                 )}
-                {/* <ExplorerModal
-          modalVisible={modalVisible}
-          close={close}
-          currentWCURI={currentWCURI}
-        /> */}
+                <ExplorerModal modalVisible={modalVisible} close={close} currentWCURI={currentWCURI} />
             </View>
         </SafeAreaView>
     );

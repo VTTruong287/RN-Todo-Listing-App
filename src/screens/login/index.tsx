@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
-import ConnectWalletButton from '../../modules/app/components/connect-wallet-button';
+import ConnectWalletButton from '../../modules/auth/components/connect-wallet-button';
 
 const LoginScreen = () => {
     return (
