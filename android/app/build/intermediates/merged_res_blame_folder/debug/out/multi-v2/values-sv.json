@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.walletconnect.web3modal.rnsample.app-mergeDebugResources-20:/values-sv/values-sv.xml",
+            "outputFile": "com.walletconnect.web3modal.rnsample.app-mergeDebugResources-27:/values-sv/values-sv.xml",
             "map": [
                 {
                     "source": "/Users/admin/.gradle/caches/transforms-3/b5aafe16c84add24fc50a69bc28bd81a/transformed/appcompat-1.4.1/res/values-sv/values-sv.xml",

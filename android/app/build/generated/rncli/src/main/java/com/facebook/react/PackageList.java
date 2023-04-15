@@ -17,6 +17,10 @@ import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
 import com.reactnativecommunity.clipboard.ClipboardPackage;
 // react-native-get-random-values
 import org.linusu.RNGetRandomValuesPackage;
+// react-native-safe-area-context
+import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
+// react-native-screens
+import com.swmansion.rnscreens.RNScreensPackage;
 // react-native-svg
 import com.horcrux.svg.SvgPackage;
 
@@ -67,6 +71,8 @@ public class PackageList {
       new AsyncStoragePackage(),
       new ClipboardPackage(),
       new RNGetRandomValuesPackage(),
+      new SafeAreaContextPackage(),
+      new RNScreensPackage(),
       new SvgPackage()
     ));
   }

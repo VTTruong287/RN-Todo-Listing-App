@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.walletconnect.web3modal.rnsample.app-mergeReleaseResources-20:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.walletconnect.web3modal.rnsample.app-mergeReleaseResources-27:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "/Users/admin/.gradle/caches/transforms-3/57e3facbf92c5e79086c2c8ef717f3ef/transformed/core-1.7.0/res/values-pt-rPT/values-pt-rPT.xml",

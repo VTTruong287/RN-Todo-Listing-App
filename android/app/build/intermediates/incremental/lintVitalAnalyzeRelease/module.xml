@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app"
+    dir="/Users/admin/Documents/training/RN-todo-listing-app/android/app"
     name=":app"
     type="APP"
     maven="Web3Modal:app:"

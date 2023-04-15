@@ -39,10 +39,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android@@:react-native-async-storage_async-storage::release"
-      jars="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/17a20223eda76c71902587762e2037b3/transformed/out/jars/classes.jar:/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/17a20223eda76c71902587762e2037b3/transformed/out/jars/libs/R.jar"
+      name="/Users/admin/Documents/training/RN-todo-listing-app/android@@:react-native-async-storage_async-storage::release"
+      jars="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/44bf8d00d1af38542ee88b56adaf766c/transformed/out/jars/classes.jar:/Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/44bf8d00d1af38542ee88b56adaf766c/transformed/out/jars/libs/R.jar"
       resolved="Web3Modal:react-native-async-storage_async-storage:unspecified"
-      folder="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/17a20223eda76c71902587762e2037b3/transformed/out"
+      folder="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/44bf8d00d1af38542ee88b56adaf766c/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -52,10 +52,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android@@:react-native-clipboard_clipboard::release"
-      jars="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/28e60f5df741ba2a0ac573caf4238848/transformed/out/jars/classes.jar:/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/28e60f5df741ba2a0ac573caf4238848/transformed/out/jars/libs/R.jar"
+      name="/Users/admin/Documents/training/RN-todo-listing-app/android@@:react-native-clipboard_clipboard::release"
+      jars="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/97ca04fff06c866e36373801b28be5e4/transformed/out/jars/classes.jar:/Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/97ca04fff06c866e36373801b28be5e4/transformed/out/jars/libs/R.jar"
       resolved="Web3Modal:react-native-clipboard_clipboard:unspecified"
-      folder="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/28e60f5df741ba2a0ac573caf4238848/transformed/out"
+      folder="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/97ca04fff06c866e36373801b28be5e4/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -65,10 +65,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android@@:react-native-get-random-values::release"
-      jars="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-get-random-values/android/build/.transforms/c7472105f71bdad3c97c20159ae2bb8c/transformed/out/jars/classes.jar:/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-get-random-values/android/build/.transforms/c7472105f71bdad3c97c20159ae2bb8c/transformed/out/jars/libs/R.jar"
+      name="/Users/admin/Documents/training/RN-todo-listing-app/android@@:react-native-get-random-values::release"
+      jars="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-get-random-values/android/build/.transforms/b093972eebeb3e17fbf4f076f38ad975/transformed/out/jars/classes.jar:/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-get-random-values/android/build/.transforms/b093972eebeb3e17fbf4f076f38ad975/transformed/out/jars/libs/R.jar"
       resolved="Web3Modal:react-native-get-random-values:unspecified"
-      folder="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-get-random-values/android/build/.transforms/c7472105f71bdad3c97c20159ae2bb8c/transformed/out"
+      folder="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-get-random-values/android/build/.transforms/b093972eebeb3e17fbf4f076f38ad975/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -78,10 +78,36 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android@@:react-native-svg::release"
-      jars="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-svg/android/build/.transforms/3412f02ae16d5ca6ae6800c873f54263/transformed/out/jars/classes.jar:/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-svg/android/build/.transforms/3412f02ae16d5ca6ae6800c873f54263/transformed/out/jars/libs/R.jar"
+      name="/Users/admin/Documents/training/RN-todo-listing-app/android@@:react-native-safe-area-context::release"
+      jars="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-safe-area-context/android/build/.transforms/03880e4ad44ab0694c87c8602e7cd1d8/transformed/out/jars/classes.jar:/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-safe-area-context/android/build/.transforms/03880e4ad44ab0694c87c8602e7cd1d8/transformed/out/jars/libs/R.jar"
+      resolved="Web3Modal:react-native-safe-area-context:unspecified"
+      folder="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-safe-area-context/android/build/.transforms/03880e4ad44ab0694c87c8602e7cd1d8/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/admin/Documents/training/RN-todo-listing-app/android@@:react-native-screens::release"
+      jars="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-screens/android/build/.transforms/781c19d0bd2575973fb895d3e7d4ff54/transformed/out/jars/classes.jar:/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-screens/android/build/.transforms/781c19d0bd2575973fb895d3e7d4ff54/transformed/out/jars/libs/R.jar"
+      resolved="Web3Modal:react-native-screens:unspecified"
+      folder="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-screens/android/build/.transforms/781c19d0bd2575973fb895d3e7d4ff54/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/admin/Documents/training/RN-todo-listing-app/android@@:react-native-svg::release"
+      jars="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-svg/android/build/.transforms/b6fc2a9dace07e12389082ef4ddae785/transformed/out/jars/classes.jar:/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-svg/android/build/.transforms/b6fc2a9dace07e12389082ef4ddae785/transformed/out/jars/libs/R.jar"
       resolved="Web3Modal:react-native-svg:unspecified"
-      folder="/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-svg/android/build/.transforms/3412f02ae16d5ca6ae6800c873f54263/transformed/out"
+      folder="/Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-svg/android/build/.transforms/b6fc2a9dace07e12389082ef4ddae785/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -646,25 +672,25 @@
       jars="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/2.9.0/dcc813b08ce5933f8bdfd1dfbab4ad4bd170e7a/okio-jvm-2.9.0.jar"
       resolved="com.squareup.okio:okio:2.9.0"/>
   <library
-      name="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10@jar"
-      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.10/e80fe6ac3c3573a80305f5ec43f86b829e8ab53d/kotlin-stdlib-jdk8-1.6.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10"/>
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21@jar"
+      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.21/eeb4d60d75e9ea9c11200d52974e522793b14fba/kotlin-stdlib-jdk8-1.6.21.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21"/>
   <library
-      name="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10@jar"
-      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.10/e1c380673654a089c4f0c9f83d0ddfdc1efdb498/kotlin-stdlib-jdk7-1.6.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10"/>
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21@jar"
+      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.21/568c1b78a8e17a4f35b31f0a74e2916095ed74c2/kotlin-stdlib-jdk7-1.6.21.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21"/>
   <library
-      name="org.jetbrains.kotlin:kotlin-stdlib:1.6.10@jar"
-      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.10/b8af3fe6f1ca88526914929add63cf5e7c5049af/kotlin-stdlib-1.6.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.6.10"/>
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.6.21@jar"
+      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.6.21"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21@jar"
+      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21"/>
   <library
       name="org.jetbrains:annotations:13.0@jar"
       jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
       resolved="org.jetbrains:annotations:13.0"/>
-  <library
-      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10@jar"
-      jars="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10"/>
   <library
       name="com.facebook.yoga:proguard-annotations:1.19.0@jar"
       jars="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.yoga/proguard-annotations/1.19.0/fcbbb39052e6490eaaf6a6959c49c3a4fbe87c63/proguard-annotations-1.19.0.jar"
@@ -673,6 +699,32 @@
       name="javax.inject:javax.inject:1@jar"
       jars="/Users/admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
       resolved="javax.inject:javax.inject:1"/>
+  <library
+      name="com.google.android.material:material:1.1.0@aar"
+      jars="/Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0/jars/classes.jar"
+      resolved="com.google.android.material:material:1.1.0"
+      folder="/Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.viewpager2:viewpager2:1.0.0@aar"
+      jars="/Users/admin/.gradle/caches/transforms-3/aaaf5ad5505415e606211dcabf67e2f7/transformed/jetified-viewpager2-1.0.0/jars/classes.jar"
+      resolved="androidx.viewpager2:viewpager2:1.0.0"
+      folder="/Users/admin/.gradle/caches/transforms-3/aaaf5ad5505415e606211dcabf67e2f7/transformed/jetified-viewpager2-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
   <library
       name="androidx.emoji2:emoji2-views-helper:1.0.0@aar"
       jars="/Users/admin/.gradle/caches/transforms-3/f3a8c8f1a72df0a5afc81075faf8f8ed/transformed/jetified-emoji2-views-helper-1.0.0/jars/classes.jar"
@@ -752,9 +804,74 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar"
+      jars="/Users/admin/.gradle/caches/transforms-3/9b3aba604a6ccb6332bc6989614a2688/transformed/coordinatorlayout-1.1.0/jars/classes.jar"
+      resolved="androidx.coordinatorlayout:coordinatorlayout:1.1.0"
+      folder="/Users/admin/.gradle/caches/transforms-3/9b3aba604a6ccb6332bc6989614a2688/transformed/coordinatorlayout-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.core:core-ktx:1.5.0@aar"
+      jars="/Users/admin/.gradle/caches/transforms-3/f8a7e0eaeaf855b63f333a45ae728035/transformed/jetified-core-ktx-1.5.0/jars/classes.jar"
+      resolved="androidx.core:core-ktx:1.5.0"
+      folder="/Users/admin/.gradle/caches/transforms-3/f8a7e0eaeaf855b63f333a45ae728035/transformed/jetified-core-ktx-1.5.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.recyclerview:recyclerview:1.1.0@aar"
+      jars="/Users/admin/.gradle/caches/transforms-3/44fd7a946ce8e4208ab7996a16892ce4/transformed/recyclerview-1.1.0/jars/classes.jar"
+      resolved="androidx.recyclerview:recyclerview:1.1.0"
+      folder="/Users/admin/.gradle/caches/transforms-3/44fd7a946ce8e4208ab7996a16892ce4/transformed/recyclerview-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.transition:transition:1.2.0@aar"
+      jars="/Users/admin/.gradle/caches/transforms-3/1609a8c1633790973c88211e82d15eba/transformed/transition-1.2.0/jars/classes.jar"
+      resolved="androidx.transition:transition:1.2.0"
+      folder="/Users/admin/.gradle/caches/transforms-3/1609a8c1633790973c88211e82d15eba/transformed/transition-1.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="androidx.resourceinspection:resourceinspection-annotation:1.0.0@jar"
       jars="/Users/admin/.gradle/caches/modules-2/files-2.1/androidx.resourceinspection/resourceinspection-annotation/1.0.0/8c21f8ff5d96d5d52c948707f7e4d6ca6773feef/resourceinspection-annotation-1.0.0.jar"
       resolved="androidx.resourceinspection:resourceinspection-annotation:1.0.0"/>
+  <library
+      name="androidx.cardview:cardview:1.0.0@aar"
+      jars="/Users/admin/.gradle/caches/transforms-3/3d700ec2420b6705e3834d870d519e33/transformed/cardview-1.0.0/jars/classes.jar"
+      resolved="androidx.cardview:cardview:1.0.0"
+      folder="/Users/admin/.gradle/caches/transforms-3/3d700ec2420b6705e3834d870d519e33/transformed/cardview-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
   <library
       name="androidx.concurrent:concurrent-futures:1.0.0@jar"
       jars="/Users/admin/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.0.0/c1e77e3ee6f4643b77496a1ddf7a2eef1aefdaa1/concurrent-futures-1.0.0.jar"

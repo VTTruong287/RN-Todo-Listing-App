@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.walletconnect.web3modal.rnsample.app-mergeDebugResources-20:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.walletconnect.web3modal.rnsample.app-mergeDebugResources-27:/values-large-v4/values-large-v4.xml",
             "map": [
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "752,874",
+                        "endColumns": "121,133",
+                        "endOffsets": "869,1003"
+                    }
+                },
                 {
                     "source": "/Users/admin/.gradle/caches/transforms-3/b5aafe16c84add24fc50a69bc28bd81a/transformed/appcompat-1.4.1/res/values-large-v4/values-large-v4.xml",
                     "from": {

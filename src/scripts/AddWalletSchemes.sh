@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get the path to the JSON file
-jsonFilePath="${SRCROOT}/../src/constants/WalletSchemes.json"
+jsonFilePath="${SRCROOT}/../src/modules/commons/constants/WalletSchemes.json"
 
 # Check if the JSON file exists
 if [[ ! -f "${jsonFilePath}" ]]; then

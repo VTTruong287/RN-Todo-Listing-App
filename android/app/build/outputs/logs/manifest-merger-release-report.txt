@@ -1,19 +1,23 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-MERGED from [:react-native-async-storage_async-storage] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-clipboard_clipboard] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-get-random-values] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-get-random-values/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-svg] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [:react-native-async-storage_async-storage] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-clipboard_clipboard] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-get-random-values] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-get-random-values/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/b57abe73a0ac3f1fc1b2d0d89a019357/transformed/jetified-react-android-0.71.2-release/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-3/84f0fc81defe5e6700f5f727f4bb4862/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:hermes-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/9467776f6d7cd616a32e278566f8a651/transformed/jetified-hermes-android-0.71.2-release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/admin/.gradle/caches/transforms-3/b5aafe16c84add24fc50a69bc28bd81a/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/admin/.gradle/caches/transforms-3/a7ec8d593305b411f3c655db55bd9766/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.autofill:autofill:1.1.0] /Users/admin/.gradle/caches/transforms-3/b99e378797bfff1c84b1c2ed0591bdb8/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/admin/.gradle/caches/transforms-3/aaaf5ad5505415e606211dcabf67e2f7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/admin/.gradle/caches/transforms-3/6f6a56b485f687ec92030c5dcda02f56/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.2.4] /Users/admin/.gradle/caches/transforms-3/fd606745f278c0a92373ee62755c2029/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/admin/.gradle/caches/transforms-3/f3a8c8f1a72df0a5afc81075faf8f8ed/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -39,16 +43,21 @@ MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/admin/.gradle/caches/tra
 MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/admin/.gradle/caches/transforms-3/acebd500a8778f4a55f62e1924db8de0/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-3/b1de2109cdfb69f4ffb643e25fd03961/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-3/a98d855f4c4c3cb95f949eed00c1e6b7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/admin/.gradle/caches/transforms-3/9b3aba604a6ccb6332bc6989614a2688/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/admin/.gradle/caches/transforms-3/f8a7e0eaeaf855b63f333a45ae728035/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-3/e48340e5b463a4c16ef71ac616c33c98/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-3/29900441209ba0ff9311a5f01d1b0ebd/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-3/9cb12f4d92782cc51bd1fc2c5461facd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-3/e2a15e9d95ccf10f8a46162ed80e42c2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/admin/.gradle/caches/transforms-3/44fd7a946ce8e4208ab7996a16892ce4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-3/64480722f1aef7e9162afafe2a7590fb/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/admin/.gradle/caches/transforms-3/1609a8c1633790973c88211e82d15eba/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-3/e2a15e9d95ccf10f8a46162ed80e42c2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.7.0] /Users/admin/.gradle/caches/transforms-3/57e3facbf92c5e79086c2c8ef717f3ef/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-3/0ce980580d4b716c0b68e6d07cf767e0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/admin/.gradle/caches/transforms-3/c0faf42ad74492a069753b1861b6278f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/admin/.gradle/caches/transforms-3/3fd32035609f6aa5150bfc5797c8209d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/admin/.gradle/caches/transforms-3/4e95faf17147d5e411770b6d9084d64f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/admin/.gradle/caches/transforms-3/3d700ec2420b6705e3834d870d519e33/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-3/5cdb890e44fb67a22345b3e2eeca2557/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-3/4753564f23588ec0d3076c75a75eae6a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/admin/.gradle/caches/transforms-3/6c1ae06dbcc7cfefebfbde77cf45d1cb/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
@@ -56,31 +65,33 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/admin/.gradle/ca
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/admin/.gradle/caches/transforms-3/e45c56eac26d4b49fefbd4f86f662161/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/admin/.gradle/caches/transforms-3/79a0fcddb51ad48d0ccc271b76ee48d1/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/admin/.gradle/caches/transforms-3/8397683c7bed81412b028cd5dfa1e7c6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
 	package
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:1-25:12
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:3:5-67
+ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:3:5-67
 	android:name
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:3:22-64
 application
-ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:5:5-24:19
 MERGED from [com.facebook.react:react-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/b57abe73a0ac3f1fc1b2d0d89a019357/transformed/jetified-react-android-0.71.2-release/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/b57abe73a0ac3f1fc1b2d0d89a019357/transformed/jetified-react-android-0.71.2-release/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/6d2005a533fa4046737a8c8e298cc408/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/6d2005a533fa4046737a8c8e298cc408/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/admin/.gradle/caches/transforms-3/97b4285a8d91dd4dd6262c7e69c3843f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
@@ -96,65 +107,73 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /Users/admin/.gradle/caches/transforms-3/57e3facbf92c5e79086c2c8ef717f3ef/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:7:7-39
 	android:roundIcon
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:9:7-52
 	android:icon
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:8:7-41
 	android:allowBackup
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:10:7-34
 	android:theme
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:11:7-38
 	android:name
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:6:7-38
 activity#com.walletconnect.web3modal.rnsample.MainActivity
-ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:12:7-23:18
+ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:12:7-23:18
 	android:label
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:14:9-41
 	android:launchMode
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:16:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:exported
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:18:9-32
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:18:9-32
 	android:configChanges
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:15:9-118
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:15:9-118
 	android:name
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:13:9-37
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:13:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:19:9-22:25
+ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:20:13-65
+ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:20:21-62
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:21:13-73
+ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml:21:23-70
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml:21:23-70
 uses-sdk
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-async-storage_async-storage] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-clipboard_clipboard] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-clipboard_clipboard] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-get-random-values] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-get-random-values/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-get-random-values] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-get-random-values/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-async-storage_async-storage] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-random-values] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-get-random-values/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-random-values] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-get-random-values/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/admin/Documents/training/RN-todo-listing-app/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/b57abe73a0ac3f1fc1b2d0d89a019357/transformed/jetified-react-android-0.71.2-release/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/b57abe73a0ac3f1fc1b2d0d89a019357/transformed/jetified-react-android-0.71.2-release/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-3/84f0fc81defe5e6700f5f727f4bb4862/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-3/84f0fc81defe5e6700f5f727f4bb4862/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.react:hermes-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/9467776f6d7cd616a32e278566f8a651/transformed/jetified-hermes-android-0.71.2-release/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:hermes-android:0.71.2] /Users/admin/.gradle/caches/transforms-3/9467776f6d7cd616a32e278566f8a651/transformed/jetified-hermes-android-0.71.2-release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/admin/.gradle/caches/transforms-3/2e226f9f78d40e1685e8e037e7034b91/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/admin/.gradle/caches/transforms-3/b5aafe16c84add24fc50a69bc28bd81a/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/admin/.gradle/caches/transforms-3/b5aafe16c84add24fc50a69bc28bd81a/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/admin/.gradle/caches/transforms-3/a7ec8d593305b411f3c655db55bd9766/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/admin/.gradle/caches/transforms-3/a7ec8d593305b411f3c655db55bd9766/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.autofill:autofill:1.1.0] /Users/admin/.gradle/caches/transforms-3/b99e378797bfff1c84b1c2ed0591bdb8/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.autofill:autofill:1.1.0] /Users/admin/.gradle/caches/transforms-3/b99e378797bfff1c84b1c2ed0591bdb8/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/admin/.gradle/caches/transforms-3/aaaf5ad5505415e606211dcabf67e2f7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/admin/.gradle/caches/transforms-3/aaaf5ad5505415e606211dcabf67e2f7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/admin/.gradle/caches/transforms-3/6f6a56b485f687ec92030c5dcda02f56/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] /Users/admin/.gradle/caches/transforms-3/6f6a56b485f687ec92030c5dcda02f56/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.2.4] /Users/admin/.gradle/caches/transforms-3/fd606745f278c0a92373ee62755c2029/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
@@ -205,16 +224,24 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/admin/.gradle/caches/transforms-3/b1de2109cdfb69f4ffb643e25fd03961/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-3/a98d855f4c4c3cb95f949eed00c1e6b7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/admin/.gradle/caches/transforms-3/a98d855f4c4c3cb95f949eed00c1e6b7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/admin/.gradle/caches/transforms-3/9b3aba604a6ccb6332bc6989614a2688/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/admin/.gradle/caches/transforms-3/9b3aba604a6ccb6332bc6989614a2688/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/admin/.gradle/caches/transforms-3/f8a7e0eaeaf855b63f333a45ae728035/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/admin/.gradle/caches/transforms-3/f8a7e0eaeaf855b63f333a45ae728035/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-3/e48340e5b463a4c16ef71ac616c33c98/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/admin/.gradle/caches/transforms-3/e48340e5b463a4c16ef71ac616c33c98/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-3/29900441209ba0ff9311a5f01d1b0ebd/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/admin/.gradle/caches/transforms-3/29900441209ba0ff9311a5f01d1b0ebd/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-3/9cb12f4d92782cc51bd1fc2c5461facd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-3/9cb12f4d92782cc51bd1fc2c5461facd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-3/e2a15e9d95ccf10f8a46162ed80e42c2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-3/e2a15e9d95ccf10f8a46162ed80e42c2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/admin/.gradle/caches/transforms-3/44fd7a946ce8e4208ab7996a16892ce4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/admin/.gradle/caches/transforms-3/44fd7a946ce8e4208ab7996a16892ce4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-3/64480722f1aef7e9162afafe2a7590fb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-3/64480722f1aef7e9162afafe2a7590fb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/admin/.gradle/caches/transforms-3/1609a8c1633790973c88211e82d15eba/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/admin/.gradle/caches/transforms-3/1609a8c1633790973c88211e82d15eba/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-3/e2a15e9d95ccf10f8a46162ed80e42c2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-3/e2a15e9d95ccf10f8a46162ed80e42c2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.7.0] /Users/admin/.gradle/caches/transforms-3/57e3facbf92c5e79086c2c8ef717f3ef/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.7.0] /Users/admin/.gradle/caches/transforms-3/57e3facbf92c5e79086c2c8ef717f3ef/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/admin/.gradle/caches/transforms-3/0ce980580d4b716c0b68e6d07cf767e0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
@@ -225,6 +252,8 @@ MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/admin/.gradle/caches/t
 MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/admin/.gradle/caches/transforms-3/3fd32035609f6aa5150bfc5797c8209d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/admin/.gradle/caches/transforms-3/4e95faf17147d5e411770b6d9084d64f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/admin/.gradle/caches/transforms-3/4e95faf17147d5e411770b6d9084d64f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/admin/.gradle/caches/transforms-3/3d700ec2420b6705e3834d870d519e33/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/admin/.gradle/caches/transforms-3/3d700ec2420b6705e3834d870d519e33/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-3/5cdb890e44fb67a22345b3e2eeca2557/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/admin/.gradle/caches/transforms-3/5cdb890e44fb67a22345b3e2eeca2557/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-3/4753564f23588ec0d3076c75a75eae6a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
@@ -239,16 +268,16 @@ MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/admin/.gradle/caches/trans
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/admin/.gradle/caches/transforms-3/79a0fcddb51ad48d0ccc271b76ee48d1/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/admin/.gradle/caches/transforms-3/8397683c7bed81412b028cd5dfa1e7c6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/admin/.gradle/caches/transforms-3/8397683c7bed81412b028cd5dfa1e7c6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Documents/training/RN-todo-listing-app/android/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/6d2005a533fa4046737a8c8e298cc408/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/admin/.gradle/caches/transforms-3/97b4285a8d91dd4dd6262c7e69c3843f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20

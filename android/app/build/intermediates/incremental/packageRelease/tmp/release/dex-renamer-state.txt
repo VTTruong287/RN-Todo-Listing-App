@@ -1,4 +1,7 @@
-#Fri Apr 14 22:47:27 ICT 2023
-base.0=/Users/admin/Documents/training/wc-dapp-example/react-native-examples/dapps/v2Explorer/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+#Sat Apr 15 15:13:38 ICT 2023
+base.1=/Users/admin/Documents/training/RN-todo-listing-app/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/admin/Documents/training/RN-todo-listing-app/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
