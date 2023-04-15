@@ -66,6 +66,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.test/__snapshots__/
 
 .env
 .vscode/
